@@ -1,6 +1,9 @@
 # NSynth
 This repository contains material related to Udacity's Machine Learning Engineer Nando Degree (MLEND) capstone project. The objective of this project is to classify wave files (.wav) based on their instrument family. 
 
+The findings of can be found in Report.pdf. The report is also available in this link:
+https://drive.google.com/file/d/1sgq-3WGUuPyAjt-HeDCNTQkCAE9ZZ7vc/view?usp=sharing
+
 The instrument classification using the NSynth dataset found here:
 https://magenta.tensorflow.org/datasets/nsynth
 
@@ -30,6 +33,6 @@ The required libraries for this repository are:
 
 The above packages are most likely built in your Anaconda package with the exception of Librosa which needs to be installed.
 
-The time required to run most scripts depends on the user's machine. For exampling, extracing spectral features from 50,000 files requires more than 3hours on a mid 2014 Macbook Pro.
+The time required to run most scripts depends on the user's machine. For example, extracing spectral features from 50,000 files requires more than 3hours on a 2014 Macbook Pro.
 
 For the convolutional neural network (CNN), it is recommended to use Amazon Web Services (AWS) or an equivalent cloud computing service. For this project the EC2 instance is p2.xlarge using <i>"Deep Learning AMI with Source Code -CUDA 8- Ubuntu"</i>.
