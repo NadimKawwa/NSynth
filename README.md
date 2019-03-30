@@ -41,4 +41,4 @@ For the convolutional neural network (CNN), it is recommended to use Amazon Web 
 ## Looking Ahead
 I passed and obtained my degree, looking forward to more exciting projects!
 
-![MLEND_NK](https://confirm.udacity.com/AJAL7H6J)
+![MLEND_NK](https://drive.google.com/file/d/1kXYhXxQH0nIrPjXuhR-7CNu51Zas5hpJ/view?usp=sharing)
