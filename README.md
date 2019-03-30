@@ -36,3 +36,9 @@ The above packages are most likely built in your Anaconda package with the excep
 The time required to run most scripts depends on the user's machine. For example, extracing spectral features from 50,000 files requires more than 3hours on a 2014 Macbook Pro.
 
 For the convolutional neural network (CNN), it is recommended to use Amazon Web Services (AWS) or an equivalent cloud computing service. For this project the EC2 instance is p2.xlarge using <i>"Deep Learning AMI with Source Code -CUDA 8- Ubuntu"</i>.
+
+
+## Looking Ahead
+I passed and obtained my degree, looking forward to more exciting projects!
+
+![MLEND_NK](https://confirm.udacity.com/AJAL7H6J)
