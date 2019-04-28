@@ -52,27 +52,43 @@ Because we used a subset of the data for training, the next logical step was a s
 It's important to keep in mind that the paramters we initialize will affect our results. The key factor for predicting success in any machine learning exercise is the data.
 
 
-## Looking Ahead
-I passed and obtained my degree, looking forward to more exciting projects!
-
-![MLEND_NK](https://github.com/NadimKawwa/NSynth/blob/master/MLEND.png)
 
 
 ## Acknowledgments 
 
 The findings presented here could not have been possible without the generosity of researchers who made their findings public.
+The list below is pasted from the full report.
 
 [1] Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck, Karen Simonyan, and Mohammad Norouzi. "Neural Audio Synthesis of Musical Notes with WaveNet Autoencoders." 2017.
+
 [2] Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009.
+
 [3] Introduction to machine learning with Python: a guide for data scientists
 Andreas Müller-Sarah Guido - O'Reilly. - 2017
-[4] https://hypertextbook.com/facts/2003/ChrisDAmbrose.shtml
-[5] http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=801-30-04
-[6] https://ccrma.stanford.edu/CCRMA/Courses/152/percussion.html
+
+[4] The Physics Factbook
+https://hypertextbook.com/facts/2003/ChrisDAmbrose.shtml
+
+[5] International Electrotechnical Commission
+http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=801-30-04
+
+[6] Center for Computer Research in Music and Acoustics at Stanford University
+https://ccrma.stanford.edu/CCRMA/Courses/152/percussion.html
+
 [7] Fitzgerald, Derry. “Harmonic/percussive separation using median filtering.” 13th International Conference on Digital Audio Effects (DAFX10), Graz, Austria, 2010.
+
 [8] Meinard Müller and Sebastian Ewert “Chroma Toolbox: MATLAB implementations for extracting variants of chroma-based audio features” In Proceedings of the International Conference on Music Information Retrieval (ISMIR), 2011.
-[9] https://ccrma.stanford.edu/~jos/st/Spectrograms.html
+
+[9] Center for Computer Research in Music and Acoustics at Stanford University
+https://ccrma.stanford.edu/~jos/st/Spectrograms.html
+
 [10] Roger B. Dannenberg, Introduction to Computer Music Spectral Centroid
+
 [11] Jiang, Dan-Ning, Lie Lu, Hong-Jiang Zhang, Jian-Hua Tao, and Lian-Hong Cai. “Music type classification by spectral contrast feature.” In Multimedia and Expo, 2002. ICME‘02. Proceedings. 2002 IEEE International Conference on, vol. 1, pp. 113-116. IEEE, 2002.
+
 [12] arXiv:1412.6980 [cs.LG]
 
+## Looking Ahead
+I passed and obtained my degree, looking forward to more exciting projects!
+
+![MLEND_NK](https://github.com/NadimKawwa/NSynth/blob/master/MLEND.png)
